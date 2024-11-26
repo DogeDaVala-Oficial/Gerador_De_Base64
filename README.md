@@ -17,5 +17,5 @@ Este projeto codifica arquivos de áudio MP3 em Base64. O código faz a leitura 
 
 1. **Clone o repositório do GitHub:**
    ```bash
-   git clone https://github.com/DogeDaVala-Oficial/portfolio
-   cd portfolio
+   git clone https://github.com/DogeDaVala-Oficial/gerador_de_base64
+   cd gerador_de_base64
